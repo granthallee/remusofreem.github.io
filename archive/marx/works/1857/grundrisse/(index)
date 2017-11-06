@@ -5,7 +5,7 @@
 <title>Karl Marx: Grundrisse</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="author" content="Marx">
-<LINK rel="stylesheet" type="text/css" href="../../../../../css/marxists.css">
+<LINK rel="stylesheet" type="text/css" href="../marxists.css">
 <LINK rel="stylesheet" type="text/css" href="grundrisse_extra.css">
 <meta name="viewport" content="width=device-width"></head>
 <BODY>
@@ -32,9 +32,9 @@ This translation is licensed by the copyright owner, Martin Nicolaus, exclusivel
 
 <!--remove before conversion - start-->
 <p class="fst"> Grundrisse in eBook formats:
-<a href="../../download/epub/grundrisse.epub">epub</a>
-<a href="../../download/mobi/grundrisse.mobi">mobi</a>
-<a href="../../download/pdf/grundrisse.pdf">pdf</a></p>
+<a href="marxists.org/../../download/epub/grundrisse.epub">epub</a>
+<a href="marxists.org/../../download/mobi/grundrisse.mobi">mobi</a>
+<a href="marxists.org/../../download/pdf/grundrisse.pdf">pdf</a></p>
 
 <h3 class="asterisks">* * *</h3>
 <!--remove before conversion - end-->
@@ -42,8 +42,8 @@ This translation is licensed by the copyright owner, Martin Nicolaus, exclusivel
 <h4>Note on the Text</h4>
 
 <p class="information">
-Marx wrote this huge manuscript as part of his preparation for what would become <a href="../../1859/critique-pol-economy/index.htm"><em>A Contribution to the Critique of Political Economy</em></a> (published in 1859) and <a href="../../1867-c1/index.htm"><em>Capital</em></a> (published 1867).</p>
-<p class="information">Soviet Marxologists released several never-before-seen Marx/Engels works in the 1930s. Most were early works &#8211; like the <a href="../../1844/manuscripts/preface.htm"><em>Economic and Philosophical Manuscripts</em></a> &#8211; but the <em>Grundrisse</em> stood alone as issuing forth from the most intense period of Marx&#8217;s decade-long, in-depth study of economics. It is an extremely rich and thought-provoking work, showing signs of humanism and the influence of Hegelian dialectic method. Do note, though, Marx did not intend it for publication as is, so it can be stylistically very rough in places.</p>
+Marx wrote this huge manuscript as part of his preparation for what would become <a href="marxists.org/../../1859/critique-pol-economy/index.htm"><em>A Contribution to the Critique of Political Economy</em></a> (published in 1859) and <a href="marxists.org/../../1867-c1/index.htm"><em>Capital</em></a> (published 1867).</p>
+<p class="information">Soviet Marxologists released several never-before-seen Marx/Engels works in the 1930s. Most were early works &#8211; like the <a href="marxists.org/../../1844/manuscripts/preface.htm"><em>Economic and Philosophical Manuscripts</em></a> &#8211; but the <em>Grundrisse</em> stood alone as issuing forth from the most intense period of Marx&#8217;s decade-long, in-depth study of economics. It is an extremely rich and thought-provoking work, showing signs of humanism and the influence of Hegelian dialectic method. Do note, though, Marx did not intend it for publication as is, so it can be stylistically very rough in places.</p>
 <p class="information">The series of seven notebooks were rough-drafted by Marx, chiefly for purposes of self-clarification, during the winter of 1857-8. The manuscript became lost in circumstances still unknown and was first effectively published, in the German original, in 1953. A limited edition was published by Foreign Language Publishers in Moscow in two volumes, 1939 and 1941 respectively, under the editorship of the Marx-Engels-Lenin Institute, Moscow. The first volume contained the introduction and the seven notebooks translated here. The second added fragments from Marx&#8217;s 1851 notebooks of excerpts from Ricardo, the fragment &#8216;Bastiat and Carey&#8217; (also included in this translation), and miscellaneous related material; also extensive annotations and sources. A photo-offset reprint of the two volumes bound in one, minus illustrations and facsimiles, was issued by Dietz Verlag, Berlin (E.), in 1953, and is the basis of the present translation. It is referred to hereafter as <i>Grundrisse</i>. Rosdolsky states that only three or four copies of the 1939-41 edition ever reached &#8216;the western world&#8217;.</p>
 
 <!--remove before conversion - start-->
@@ -54,324 +54,324 @@ Marx wrote this huge manuscript as part of his preparation for what would become
 <h3>Analytical Contents List</h3>
 
 <table class="grundrisse3"><tbody>
-<tr><td class="aclhead"><a href="ch01.htm">INTRODUCTION (Notebook M)</a></td></tr>
-<tr><td><a href="ch01.htm">(1) Production in general</a></td></tr>
-<tr><td><a href="ch01.htm#loc2">(2) General relation between production, distribution, exchange and consumption</a></td></tr>
-<tr><td><a href="ch01.htm#loc3">(3) The method of political economy</a></td></tr>
-<tr><td><a href="ch01.htm#loc4">(4) Means (forces) of production and relations of production, relations of production and relations of circulation</a></td></tr>
-<tr><td class="aclhead"><a href="ch02.htm">THE CHAPTER ON MONEY (Notebooks I and II, pp. 1&ndash;7)</a></td></tr>
-<tr><td><a href="ch02.htm#p115">Darimon&#8217;s theory of crises</a></td></tr>
-<tr><td><a href="ch02.htm#p125">Gold export and crises</a></td></tr>
-<tr><td><a href="ch02.htm#p130">Convertibility and note circulation</a></td></tr>
-<tr><td><a href="ch02.htm#p136">Value and price</a></td></tr>
-<tr><td><a href="ch02.htm#p140">Transformation of the commodity into exchange value; money</a></td></tr>
-<tr><td><a href="ch02.htm#p147">Contradictions in the money relation</a></td></tr>
-<tr><td><a href="ch02.htm#p147">(1) Contradiction between commodity as product and commodity as exchange value</a></td></tr>
-<tr><td><a href="ch02.htm#p148">(2) Contradiction between purchase and sale</a></td></tr>
-<tr><td><a href="ch02.htm#p148">(3) Contradiction between exchange for the sake of exchange and exchange for the sake of commodities</a></td></tr>
-<tr><td><a href="ch02.htm#p149">(Aphorisms)</a></td></tr>
-<tr><td><a href="ch03.htm">(4) Contradiction between money as particular commodity and money as general commodity</a></td></tr>
-<tr><td><a href="ch03.htm#p151">(The <em>Economist</em> and the <em>Morning Star</em> on money)</a></td></tr>
-<tr><td><a href="ch03.htm#p153">Attempts to overcome the contradictions by the issue of time-chits</a></td></tr>
-<tr><td><a href="ch03.htm#p156">Exchange value as mediation of private interests</a></td></tr>
-<tr><td><a href="ch03.htm#p156">Exchange value (money) as social bond</a></td></tr>
-<tr><td><a href="ch03.htm#p163">Social relations which create an undeveloped system of exchange</a></td></tr>
-<tr><td><a href="ch03.htm#p165">The product becomes a commodity; the commodity becomes exchange value; the exchange value of the commodity becomes money</a></td></tr>
-<tr><td><a href="ch03.htm#p166">Money as measure</a></td></tr>
-<tr><td><a href="ch03.htm#p168">Money as objectification of general labour time</a></td></tr>
-<tr><td><a href="ch03.htm#p169">(Incidental remark on gold and silver)</a></td></tr>
-<tr><td><a href="ch03.htm#p171">Distinction between particular labour time and general labour time</a></td></tr>
-<tr><td><a href="ch03.htm#p172">Distinction between planned distribution of labour time and measurement of exchange values by labour time</a></td></tr>
-<tr><td><a href="ch03.htm#p172">(Strabo on money among the Albanians)</a></td></tr>
-<tr><td><a href="ch03.htm#p173">The precious metals as subjects of the money relation</a></td></tr>
-<tr><td><a href="ch03.htm#p174">(a) Gold and silver in relation to the other metals</a></td></tr>
-<tr><td><a href="ch03.htm#p180">(b) Fluctuations in the value-relations between the different metals</a></td></tr>
-<tr><td><a href="ch03.htm#p185">(c) and (d) (headings only): Sources of gold and silver; money as coin</a></td></tr>
-<tr><td><a href="ch03.htm#p186">Circulation of money and opposite circulation of commodities</a></td></tr>
-<tr><td><a href="ch03.htm#p187">General concept of circulation</a></td></tr>
-<tr><td><a href="ch03.htm#p187">(a) Circulation circulates exchange values in the form of prices</a></td></tr>
-<tr><td><a href="ch03.htm#p190">(Distinction between real money and accounting money)</a></td></tr>
-<tr><td><a href="ch03.htm#p193">(b) Money as the medium of exchange</a></td></tr>
-<tr><td><a href="ch03.htm#p194">(What determines the quantity of money required for circulation)</a></td></tr>
-<tr><td><a href="ch03.htm#p195">(Comment on (a))</a></td></tr>
-<tr><td><a href="ch03.htm#p196">Commodity circulation requires appropriation through alienation</a></td></tr>
-<tr><td><a href="ch03.htm#p197">Circulation as an endlessly repeated process</a></td></tr>
-<tr><td><a href="ch03.htm#p198">The price as external to and independent of the commodity</a></td></tr>
-<tr><td><a href="ch03.htm#p199">Creation of general medium of exchange</a></td></tr>
-<tr><td><a href="ch03.htm#p200">Exchange as a special business</a></td></tr>
-<tr><td><a href="ch03.htm#p201">Double motion of circulation: C&ndash;M; M&ndash;C, and M&ndash;C; C&ndash;M</a></td></tr>
-<tr><td><a href="ch04.htm#p203">Three contradictory functions of money</a></td></tr>
-<tr><td><a href="ch04.htm#p203">(1) Money as general material of contracts, as measuring unit of exchange values</a></td></tr>
-<tr><td><a href="ch04.htm#p208">(2) Money as medium of exchange and realizer of prices</a></td></tr>
-<tr><td><a href="ch04.htm#p211">(Money, as representative of price, allows commodities to be exchanged at equivalent prices)</a></td></tr>
-<tr><td><a href="ch04.htm#p213">(An example of confusion between the contradictory functions of money)</a></td></tr>
-<tr><td><a href="ch04.htm#p213">(Money as particular commodity and money as general commodity)</a></td></tr>
-<tr><td><a href="ch04.htm#p215">(3) Money as money: as material representative of wealth (accumulation of money)</a></td></tr>
-<tr><td><a href="ch04.htm#p223">(Dissolution of ancient communities through money)</a></td></tr>
-<tr><td><a href="ch04.htm#p226">(Money, unlike coin, has a universal character)</a></td></tr>
-<tr><td><a href="ch04.htm#p228">(Money in its third function is the negation (negative unity) of its character as medium of circulation and measure)</a></td></tr>
-<tr><td><a href="ch04.htm#p229">(Money in its metallic being; accumulation of gold and silver)</a></td></tr>
-<tr><td><a href="ch04.htm#p237">(Headings on money, to be elaborated later)</a></td></tr>
-<tr><td class="aclhead"><a href="ch05.htm">THE CHAPTER ON CAPITAL (Notebooks II pp. 8&ndash;28, III&ndash;VII)</a></td></tr>
-<tr><td><a href="ch05.htm#p239">The Chapter on Money as Capital</a></td></tr>
-<tr><td><a href="ch05.htm#p239">Difficulty in grasping money in its fully developed character as money</a></td></tr>
-<tr><td><a href="ch05.htm#p240">Simple exchange: relations between the exchangers</a></td></tr>
-<tr><td><a href="ch05.htm#p247">(Critique of socialists and harmonizers: Bastiat, Proudhon)</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch01.htm">INTRODUCTION (Notebook M)</a></td></tr>
+<tr><td><a href="marxists.org/ch01.htm">(1) Production in general</a></td></tr>
+<tr><td><a href="marxists.org/ch01.htm#loc2">(2) General relation between production, distribution, exchange and consumption</a></td></tr>
+<tr><td><a href="marxists.org/ch01.htm#loc3">(3) The method of political economy</a></td></tr>
+<tr><td><a href="marxists.org/ch01.htm#loc4">(4) Means (forces) of production and relations of production, relations of production and relations of circulation</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch02.htm">THE CHAPTER ON MONEY (Notebooks I and II, pp. 1&ndash;7)</a></td></tr>
+<tr><td><a href="marxists.org/ch02.htm#p115">Darimon&#8217;s theory of crises</a></td></tr>
+<tr><td><a href="marxists.org/ch02.htm#p125">Gold export and crises</a></td></tr>
+<tr><td><a href="marxists.org/ch02.htm#p130">Convertibility and note circulation</a></td></tr>
+<tr><td><a href="marxists.org/ch02.htm#p136">Value and price</a></td></tr>
+<tr><td><a href="marxists.org/ch02.htm#p140">Transformation of the commodity into exchange value; money</a></td></tr>
+<tr><td><a href="marxists.org/ch02.htm#p147">Contradictions in the money relation</a></td></tr>
+<tr><td><a href="marxists.org/ch02.htm#p147">(1) Contradiction between commodity as product and commodity as exchange value</a></td></tr>
+<tr><td><a href="marxists.org/ch02.htm#p148">(2) Contradiction between purchase and sale</a></td></tr>
+<tr><td><a href="marxists.org/ch02.htm#p148">(3) Contradiction between exchange for the sake of exchange and exchange for the sake of commodities</a></td></tr>
+<tr><td><a href="marxists.org/ch02.htm#p149">(Aphorisms)</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm">(4) Contradiction between money as particular commodity and money as general commodity</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p151">(The <em>Economist</em> and the <em>Morning Star</em> on money)</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p153">Attempts to overcome the contradictions by the issue of time-chits</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p156">Exchange value as mediation of private interests</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p156">Exchange value (money) as social bond</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p163">Social relations which create an undeveloped system of exchange</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p165">The product becomes a commodity; the commodity becomes exchange value; the exchange value of the commodity becomes money</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p166">Money as measure</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p168">Money as objectification of general labour time</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p169">(Incidental remark on gold and silver)</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p171">Distinction between particular labour time and general labour time</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p172">Distinction between planned distribution of labour time and measurement of exchange values by labour time</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p172">(Strabo on money among the Albanians)</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p173">The precious metals as subjects of the money relation</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p174">(a) Gold and silver in relation to the other metals</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p180">(b) Fluctuations in the value-relations between the different metals</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p185">(c) and (d) (headings only): Sources of gold and silver; money as coin</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p186">Circulation of money and opposite circulation of commodities</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p187">General concept of circulation</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p187">(a) Circulation circulates exchange values in the form of prices</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p190">(Distinction between real money and accounting money)</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p193">(b) Money as the medium of exchange</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p194">(What determines the quantity of money required for circulation)</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p195">(Comment on (a))</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p196">Commodity circulation requires appropriation through alienation</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p197">Circulation as an endlessly repeated process</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p198">The price as external to and independent of the commodity</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p199">Creation of general medium of exchange</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p200">Exchange as a special business</a></td></tr>
+<tr><td><a href="marxists.org/ch03.htm#p201">Double motion of circulation: C&ndash;M; M&ndash;C, and M&ndash;C; C&ndash;M</a></td></tr>
+<tr><td><a href="marxists.org/ch04.htm#p203">Three contradictory functions of money</a></td></tr>
+<tr><td><a href="marxists.org/ch04.htm#p203">(1) Money as general material of contracts, as measuring unit of exchange values</a></td></tr>
+<tr><td><a href="marxists.org/ch04.htm#p208">(2) Money as medium of exchange and realizer of prices</a></td></tr>
+<tr><td><a href="marxists.org/ch04.htm#p211">(Money, as representative of price, allows commodities to be exchanged at equivalent prices)</a></td></tr>
+<tr><td><a href="marxists.org/ch04.htm#p213">(An example of confusion between the contradictory functions of money)</a></td></tr>
+<tr><td><a href="marxists.org/ch04.htm#p213">(Money as particular commodity and money as general commodity)</a></td></tr>
+<tr><td><a href="marxists.org/ch04.htm#p215">(3) Money as money: as material representative of wealth (accumulation of money)</a></td></tr>
+<tr><td><a href="marxists.org/ch04.htm#p223">(Dissolution of ancient communities through money)</a></td></tr>
+<tr><td><a href="marxists.org/ch04.htm#p226">(Money, unlike coin, has a universal character)</a></td></tr>
+<tr><td><a href="marxists.org/ch04.htm#p228">(Money in its third function is the negation (negative unity) of its character as medium of circulation and measure)</a></td></tr>
+<tr><td><a href="marxists.org/ch04.htm#p229">(Money in its metallic being; accumulation of gold and silver)</a></td></tr>
+<tr><td><a href="marxists.org/ch04.htm#p237">(Headings on money, to be elaborated later)</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch05.htm">THE CHAPTER ON CAPITAL (Notebooks II pp. 8&ndash;28, III&ndash;VII)</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p239">The Chapter on Money as Capital</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p239">Difficulty in grasping money in its fully developed character as money</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p240">Simple exchange: relations between the exchangers</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p247">(Critique of socialists and harmonizers: Bastiat, Proudhon)</a></td></tr>
 
-<tr><td class="aclhead"><a href="ch05.htm#p250">SECTION ONE: THE PRODUCTION PROCESS OF CAPITAL</a></td></tr>
-<tr><td><a href="ch05.htm#p251">Nothing is expressed when capital is characterized merely as a sum of values</a></td></tr>
-<tr><td><a href="ch05.htm#p252">Landed property and capital</a></td></tr>
-<tr><td><a href="ch05.htm#p253">Capital comes from circulation; its content is exchange value; merchant capital, money capital, and money interest</a></td></tr>
-<tr><td><a href="ch05.htm#p254">Circulation presupposes another process; motion between presupposed extremes</a></td></tr>
-<tr><td><a href="ch05.htm#p256">Transition from circulation to capitalist production</a></td></tr>
-<tr><td><a href="ch05.htm#p257">Capital is accumulated labour (etc.)</a></td></tr>
-<tr><td><a href="ch05.htm#p258">&#8216;Capital is a sum of values used for the production of values&#8217;</a></td></tr>
-<tr><td><a href="ch05.htm#p259">Circulation, and exchange value deriving from circulation, the presupposition of capital</a></td></tr>
-<tr><td><a href="ch05.htm#p262">Exchange value emerging from circulation, a presupposition of circulation, preserving and multiplying itself in it by means of labour</a></td></tr>
-<tr><td><a href="ch05.htm#p264">Product and capital. Value and capital. Proudhon</a></td></tr>
-<tr><td><a href="ch05.htm#p266">Capital and labour. Exchange value and use value for exchange value</a></td></tr>
-<tr><td><a href="ch05.htm#p269">Money and its use value (labour) in this relation capital. Self-multiplication of value is its only movement</a></td></tr>
-<tr><td><a href="ch05.htm#p271">Capital, as regards substance, objectified labour. Its antithesis living, productive labour</a></td></tr>
-<tr><td><a href="ch05.htm#p272">Productive labour and labour as performance of a service</a></td></tr>
-<tr><td><a href="ch05.htm#p273">Productive and unproductive labour. A. Smith etc.</a></td></tr>
-<tr><td><a href="ch05.htm#p274">The two different processes in the exchange of capital with labour</a></td></tr>
-<tr><td><a href="ch05.htm#p275">Capital and modern landed property</a></td></tr>
-<tr><td><a href="ch05.htm#p279">The market</a></td></tr>
-<tr><td><a href="ch05.htm#p281">Exchange between capital and labour. Piecework wages</a></td></tr>
-<tr><td><a href="ch05.htm#p282">Value of labour power</a></td></tr>
-<tr><td><a href="ch05.htm#p283">Share of the wage labourer in general wealth determined only quantitatively</a></td></tr>
-<tr><td><a href="ch05.htm#p284">Money is the worker&#8217;s equivalent; he thus confronts capital as an equal</a></td></tr>
-<tr><td><a href="ch05.htm#p284">But the aim of his exchange is satisfaction of his need. Money for him is only medium of circulation</a></td></tr>
-<tr><td><a href="ch05.htm#p284">Savings, self-denial as means of the worker&#8217;s enrichment</a></td></tr>
-<tr><td><a href="ch05.htm#p289">Valuelessness and devaluation of the worker a condition of capital</a></td></tr>
-<tr><td><a href="ch06.htm">(Labour power as capital!)</a></td></tr>
-<tr><td><a href="ch06.htm#p294">Wages not productive</a></td></tr>
-<tr><td><a href="ch06.htm#p295">The exchange between capital and labour belongs within simple circulation, does not enrich the worker</a></td></tr>
-<tr><td><a href="ch06.htm#p295">Separation of labour and property the precondition of this exchange</a></td></tr>
-<tr><td><a href="ch06.htm#p296">Labour as object absolute poverty, labour as subject general possibility of wealth</a></td></tr>
-<tr><td><a href="ch06.htm#p296">Labour without particular specificity confronts capital</a></td></tr>
-<tr><td><a href="ch06.htm#p297">Labour process absorbed into capital</a></td></tr>
-<tr><td><a href="ch06.htm#p303">(Capital and capitalist)</a></td></tr>
-<tr><td><a href="ch06.htm#p304">Production process as content of capital</a></td></tr>
-<tr><td><a href="ch06.htm#p306">The worker relates to his labour as exchange value, the capitalist as use value</a></td></tr>
-<tr><td><a href="ch06.htm#p307">The worker divests himself of labour as the wealth-producing power; capital appropriates it as such</a></td></tr>
-<tr><td><a href="ch06.htm#p308">Transformation of labour into capital</a></td></tr>
-<tr><td><a href="ch06.htm#p310">Realization process</a></td></tr>
-<tr><td><a href="ch06.htm#p315">(Costs of production)</a></td></tr>
-<tr><td><a href="ch06.htm#p316">Mere self-preservation, non-multiplication of value contradicts the essence of capital</a></td></tr>
-<tr><td><a href="ch06.htm#p318">Capital enters the cost of production as capital. Interest-bearing capital</a></td></tr>
-<tr><td><a href="ch06.htm#p319">(Parentheses on: original accumulation of capital, historic presuppositions of capital, production in general)</a></td></tr>
-<tr><td><a href="ch06.htm#p321">Surplus value. Surplus labour time</a></td></tr>
-<tr><td><a href="ch06.htm#p322">Value of labour. How it is determined</a></td></tr>
-<tr><td><a href="ch06.htm#p324">Conditions for the self-realization of capital</a></td></tr>
-<tr><td><a href="ch06.htm#p325">Capital is productive as creator of surplus labour</a></td></tr>
-<tr><td><a href="ch06.htm#p325">But this is only a historical and transitory phenomenon</a></td></tr>
-<tr><td><a href="ch06.htm#p326">Theories of surplus value (Ricardo; the Physiocrats; Adam Smith; Ricardo again)</a></td></tr>
-<tr><td><a href="ch07.htm">Surplus value and productive force. Relation when these increase</a></td></tr>
-<tr><td><a href="ch07.htm#p340">Result: in proportion as necessary labour is already diminished, the realization of capital becomes more difficult</a></td></tr>
-<tr><td><a href="ch07.htm#p341">Concerning increases in the value of capital</a></td></tr>
-<tr><td><a href="ch07.htm#p354">Labour does not reproduce the value of material and instrument, but rather preserves it by relating to them in the labour process as to their objective conditions</a></td></tr>
-<tr><td><a href="ch07.htm#p359">Absolute surplus labour time. Relative</a></td></tr>
-<tr><td><a href="ch07.htm#p359">It is not the quantity of living labour, but rather its quality as labour which preserves the labour time already contained in the material</a></td></tr>
-<tr><td><a href="ch07.htm#p360">The change of form and substance in the direct production process</a></td></tr>
-<tr><td><a href="ch07.htm#p361">It is inherent in the simple production process that the previous stage of production is preserved through the subsequent one</a></td></tr>
-<tr><td><a href="ch07.htm#p362">Preservation of the old use value by new labour</a></td></tr>
-<tr><td><a href="ch07.htm#p363">The quantity of objectified labour is preserved because contact with living labour preserves its quality as use value for new labour</a></td></tr>
-<tr><td><a href="ch07.htm#p364">In the real production process, the separation of labour from its objective moments of existence is suspended. But in this process labour is already incorporated in capital</a></td></tr>
-<tr><td><a href="ch07.htm#p365">The capitalist obtains surplus labour free of charge together with the maintenance of the value of material and instrument</a></td></tr>
-<tr><td><a href="ch07.htm#p367">Through the appropriation of present labour, capital already possesses a claim to the appropriation of future labour</a></td></tr>
-<tr><td><a href="ch07.htm#p373">Confusion of profit and surplus value. Carey&#8217;s erroneous calculation</a></td></tr>
-<tr><td><a href="ch07.htm#p374">The capitalist, who does not pay the worker for the preservation of the old value, then demands remuneration for giving the worker permission to preserve the old capital</a></td></tr>
-<tr><td class="aclhead"><a href="ch07.htm#p376"><em>Surplus Value and Profit</em></a></td></tr>
-<tr><td><a href="ch07.htm#p378">Difference between consumption of the instrument and of wages. The former consumed in the production process, the latter outside it</a></td></tr>
-<tr><td><a href="ch07.htm#p381">Increase of surplus value and decrease in rate of profit</a></td></tr>
-<tr><td><a href="ch07.htm#p386">Multiplication of simultaneous working days</a></td></tr>
-<tr><td><a href="ch07.htm#p389">Machinery</a></td></tr>
-<tr><td><a href="ch07.htm#p389">Growth of the constant part of capital in relation to the variable part spent on wages = growth of the productivity of labour</a></td></tr>
-<tr><td><a href="ch07.htm#p390">Proportion in which capital has to increase in order to employ the same number of workers if productivity rises</a></td></tr>
-<tr><td><a href="ch07.htm#p395">Percentage of total capital can express very different relations</a></td></tr>
-<tr><td><a href="ch07.htm#p397">Capital (like property in general) rests on the productivity of labour</a></td></tr>
-<tr><td><a href="ch07.htm#p398">Increase of surplus labour time. Increase of simultaneous working days. (Population)</a></td></tr>
-<tr><td><a href="ch07.htm#p400">(Population can increase in proportion as necessary labour time becomes smaller)</a></td></tr>
-<tr><td><a href="ch08.htm#p401">Transition from the process of the production of capital into the process of circulation</a></td></tr>
-<tr><td class="aclhead"><a href="ch08.htm">SECTION TWO: THE CIRCULATION PROCESS OF CAPITAL</a></td></tr>
-<tr><td><a href="ch08.htm#p402">Devaluation of capital itself owing to increase of productive forces</a></td></tr>
-<tr><td><a href="ch08.htm#p413">(Competition)</a></td></tr>
-<tr><td><a href="ch08.htm#p414">Capital as unity and contradiction of the production process and the realization process</a></td></tr>
-<tr><td><a href="ch08.htm#p415">Capital as limit to production. Overproduction</a></td></tr>
-<tr><td><a href="ch08.htm#p419">Demand by the workers themselves</a></td></tr>
-<tr><td><a href="ch08.htm#p422">Barriers to capitalist production</a></td></tr>
-<tr><td><a href="ch08.htm#p423">Overproduction; Proudhon</a></td></tr>
-<tr><td><a href="ch08.htm#p424">Price of the commodity and labour time</a></td></tr>
-<tr><td><a href="ch08.htm#p430">The capitalist does not sell too dear; but still above what the thing costs him</a></td></tr>
-<tr><td><a href="ch08.htm#p432">Price can fall below value without damage to capital</a></td></tr>
-<tr><td><a href="ch08.htm#p432">Number and unit (measure) important in the multiplication of prices</a></td></tr>
-<tr><td><a href="ch08.htm#p433">Specific accumulation of capital. (Transformation of surplus labour into capital)</a></td></tr>
-<tr><td><a href="ch08.htm#p433">The determination of value and of prices</a></td></tr>
-<tr><td><a href="ch08.htm#p434">The general rate of profit</a></td></tr>
-<tr><td><a href="ch08.htm#p436">The capitalist merely sells at his own cost of production, then it is a transfer to another capitalist. The worker gains almost nothing thereby</a></td></tr>
-<tr><td><a href="ch08.htm#p443">Barrier of capitalist production. Relation of surplus labour to necessary labour. Proportion of the surplus consumed by capital to that transformed into capital</a></td></tr>
-<tr><td><a href="ch08.htm#p446">Devaluation during crises</a></td></tr>
-<tr><td><a href="ch08.htm#p447">Capital coming out of the production process becomes money again</a></td></tr>
-<tr><td><a href="ch08.htm#p449">(Parenthesis on capital in general)</a></td></tr>
-<tr><td class="aclhead"><a href="ch09.htm"><em>Surplus Labour or Surplus Value Becomes Surplus Capital</em></a></td></tr>
-<tr><td><a href="ch09.htm">All the determinants of capitalist production now appear as the result of (wage) labour itself</a></td></tr>
-<tr><td><a href="ch09.htm#p452">The realization process of labour at the same time its de-realization process</a></td></tr>
-<tr><td><a href="ch09.htm#p456">Formation of surplus capital I</a></td></tr>
-<tr><td><a href="ch09.htm#p456">Surplus capital II</a></td></tr>
-<tr><td><a href="ch09.htm#p458">Inversion of the law of appropriation</a></td></tr>
-<tr><td><a href="ch09.htm#p458">Chief result of the production and realization process</a></td></tr>
-<tr><td class="aclhead"><a href="ch09.htm#p459"><em>Original Accumulation of Capital</em></a></td></tr>
-<tr><td><a href="ch09.htm#p459">Once developed historically, capital itself creates the conditions of its existence</a></td></tr>
-<tr><td><a href="ch09.htm#p465">(Performance of personal services, as opposed to wage labour)</a></td></tr>
-<tr><td><a href="ch09.htm#p469">(Parenthesis on inversion of the law of property, real alien relation of the worker to his product, division of labour, machinery)</a></td></tr>
-<tr><td><a href="ch09.htm#p471">Forms which precede capitalist production. (Concerning the process which precedes the formation of the capital relation or of original accumulation)</a></td></tr>
-<tr><td><a href="ch10.htm">Exchange of labour for labour rests on the worker&#8217;s propertylessness</a></td></tr>
-<tr><td><a href="ch10.htm#p516">Circulation of capital and circulation of money</a></td></tr>
-<tr><td><a href="ch10.htm#p517">Production process and circulation process moments of production. The productivity of the different capitals (branches of industry) determines that of the individual capital</a></td></tr>
-<tr><td><a href="ch10.htm#p518">Circulation period. Velocity of circulation substitutes for volume of capital. Mutual dependence of capitals in the velocity of their circulation</a></td></tr>
-<tr><td><a href="ch10.htm#p520">The four moments in the turnover of capital</a></td></tr>
-<tr><td><a href="ch10.htm#p521">Moment II to be considered here: transformation of the product into money; duration of this operation</a></td></tr>
-<tr><td><a href="ch10.htm#p521">Transport costs</a></td></tr>
-<tr><td><a href="ch10.htm#p524">Circulation costs</a></td></tr>
-<tr><td><a href="ch10.htm#p525">Means of communication and transport</a></td></tr>
-<tr><td><a href="ch10.htm#p527">Division of the branches of labour</a></td></tr>
-<tr><td><a href="ch10.htm#p528">Concentration of many workers; productive force of this concentration</a></td></tr>
-<tr><td><a href="ch10.htm#p533">General as distinct from particular conditions of production</a></td></tr>
-<tr><td><a href="ch10.htm#p533">Transport to market (spatial condition of circulation) belongs in the production process</a></td></tr>
-<tr><td><a href="ch10.htm#p534">Credit, the temporal moment of circulation</a></td></tr>
-<tr><td><a href="ch10.htm#p536">Capital is circulating capital</a></td></tr>
-<tr><td><a href="ch10.htm#p537">Influence of circulation on the determination of value; circulation time = time of devaluation</a></td></tr>
-<tr><td><a href="ch10.htm#p540">Difference between the capitalist mode of production and all earlier ones (universality, propagandistic nature)</a></td></tr>
-<tr><td><a href="ch10.htm#p543">(Capital itself is the contradiction)</a></td></tr>
-<tr><td><a href="ch10.htm#p544">Circulation and creation of value</a></td></tr>
-<tr><td><a href="ch10.htm#p547">Capital not a source of value-creation</a></td></tr>
-<tr><td><a href="ch10.htm#p548">Continuity of production presupposes suspension of circulation time</a></td></tr>
-<tr><td class="aclhead"><a href="ch10.htm#p549"><em>Theories of Surplus Value</em></a></td></tr>
-<tr><td><a href="ch10.htm#p549">Ramsay&#8217;s view that capital is its own source of profit</a></td></tr>
-<tr><td><a href="ch10.htm#p551">No surplus value according to Ricardo&#8217;s law</a></td></tr>
-<tr><td><a href="ch10.htm#p553">Ricardo&#8217;s theory of value. Wages and profit</a></td></tr>
-<tr><td><a href="ch11.htm">Quincey</a></td></tr>
-<tr><td><a href="ch11.htm#p559">Ricardo</a></td></tr>
-<tr><td><a href="ch11.htm#p563">Wakefield. Conditions of capitalist production in colonies</a></td></tr>
-<tr><td><a href="ch11.htm#p564">Surplus value and profit. Example (Malthus)</a></td></tr>
-<tr><td><a href="ch11.htm#p576">Difference between labour and labour capacity</a></td></tr>
-<tr><td><a href="ch11.htm#p579">Carey&#8217;s theory of the cheapening of capital for the worker</a></td></tr>
-<tr><td><a href="ch11.htm#p580">Carey&#8217;s theory of the decline of the rate of profit</a></td></tr>
-<tr><td><a href="ch11.htm#p581">Wakefield on the contradiction between Ricardo&#8217;s theories of wage labour and of value</a></td></tr>
-<tr><td><a href="ch11.htm#p582">Bailey on dormant capital and increase of production without previous increase of capital</a></td></tr>
-<tr><td><a href="ch11.htm#p584">Wade&#8217;s explanation of capital. Capital, collective force. Capital, civilization</a></td></tr>
-<tr><td><a href="ch11.htm#p591">Rossi. What is capital? Is raw material capital? Are wages necessary for it?</a></td></tr>
-<tr><td><a href="ch11.htm#p595">Malthus. Theory of value and of wages</a></td></tr>
-<tr><td><a href="ch12.htm">Aim of capitalist production value (money), not commodity, use value etc. Chalmers</a></td></tr>
-<tr><td><a href="ch12.htm#p602">Difference in return. Interruption of the production process. Total duration of the production process. Unequal periods of production</a></td></tr>
-<tr><td><a href="ch12.htm#p604">The concept of the free labourer contains the pauper. Population and overpopulation</a></td></tr>
-<tr><td><a href="ch12.htm#p608">Necessary labour. Surplus labour. Surplus population. Surplus capital</a></td></tr>
-<tr><td><a href="ch12.htm#p610">Adam Smith: work as sacrifice</a></td></tr>
-<tr><td><a href="ch12.htm#p614">Adam Smith: the origin of profit</a></td></tr>
-<tr><td><a href="ch12.htm#p616">Surplus labour. Profit. Wages</a></td></tr>
-<tr><td><a href="ch12.htm#p616">Immovable capital. Return of capital. Fixed capital. John Stuart Mill</a></td></tr>
-<tr><td><a href="ch12.htm#p618">Turnover of capital. Circulation process. Production process</a></td></tr>
-<tr><td><a href="ch12.htm#p633">Circulation costs. Circulation time</a></td></tr>
-<tr><td><a href="ch12.htm#p637">Capital&#8217;s change of form and of substance; different forms of capital; circulating capital as general character of capital</a></td></tr>
-<tr><td><a href="ch12.htm#p640">Fixed (tied down) capital and circulating capital</a></td></tr>
-<tr><td><a href="ch12.htm#p649">Constant and variable capital</a></td></tr>
-<tr><td><a href="ch12.htm#p649">Competition</a></td></tr>
-<tr><td><a href="ch13.htm">Surplus value. Production time. Circulation time. Turnover time</a></td></tr>
-<tr><td><a href="ch13.htm#p657">Competition (continued)</a></td></tr>
-<tr><td><a href="ch13.htm#p658">Part of capital in production time, part in circulation time</a></td></tr>
-<tr><td><a href="ch13.htm#p663">Surplus value and production phase. Number of reproductions of capital = number of turnovers</a></td></tr>
-<tr><td><a href="ch13.htm#p667">Change of form and of matter in the circulation of capital C&#8211;M&#8211;C. M&#8211;C&#8211;M</a></td></tr>
-<tr><td><a href="ch13.htm#p668">Difference between production time and labour time</a></td></tr>
-<tr><td><a href="ch13.htm#p671">Formation of a mercantile estate; credit</a></td></tr>
-<tr><td><a href="ch13.htm#p673">Small-scale circulation. The process of exchange between capital and labour capacity generally</a></td></tr>
-<tr><td><a href="ch13.htm#p678">Threefold character, or mode, of circulation</a></td></tr>
-<tr><td><a href="ch13.htm#p679">Fixed capital and circulating capital</a></td></tr>
-<tr><td><a href="ch13.htm#p684">Influence of fixed capital on the total turnover time of capital</a></td></tr>
-<tr><td><a href="ch13.htm#p690">Fixed capital. Means of labour. Machine</a></td></tr>
-<tr><td><a href="ch13.htm#p699">Transposition of powers of labour into powers of capital both in fixed and in circulating capital</a></td></tr>
-<tr><td><a href="ch13.htm#p701">To what extent fixed capital (machine) creates value</a></td></tr>
-<tr><td><a href="ch14.htm">Fixed capital &amp; continuity of the production process. Machinery &amp; living labour</a></td></tr>
-<tr><td><a href="ch14.htm#p704">Contradiction between the foundation of bourgeois production (value as measure) and its development</a></td></tr>
-<tr><td><a href="ch14.htm#p707">Significance of the development of fixed capital (for the development of capital generally)</a></td></tr>
-<tr><td><a href="ch14.htm#p708">The chief role of capital is to create disposable time; contradictory form of this in capital</a></td></tr>
-<tr><td><a href="ch14.htm#p710">Durability of fixed capital</a></td></tr>
-<tr><td><a href="ch14.htm#p711">Real saving (economy) = saving of labour time = development of productive force</a></td></tr>
-<tr><td><a href="ch14.htm#p712">True conception of the process of social production</a></td></tr>
-<tr><td><a href="ch14.htm#p712">Owen&#8217;s historical conception of industrial (capitalist) production</a></td></tr>
-<tr><td><a href="ch14.htm#p714">Capital and value of natural agencies</a></td></tr>
-<tr><td><a href="ch14.htm#p715">Scope of fixed capital indicates the level of capitalist production</a></td></tr>
-<tr><td><a href="ch14.htm#p716">Is money fixed capital or circulating capital?</a></td></tr>
-<tr><td><a href="ch14.htm#p717">Turnover time of capital consisting of fixed capital and circulating capital. Reproduction time of fixed capital</a></td></tr>
-<tr><td><a href="ch14.htm#p723">The same commodity sometimes circulating capital, sometimes fixed capital</a></td></tr>
-<tr><td><a href="ch14.htm#p726">Every moment which is a presupposition of production is at the same time its result, in that it reproduces its own conditions</a></td></tr>
-<tr><td><a href="ch14.htm#p727">The counter-value of circulating capital must be produced within the year. Not so for fixed capital. It engages the production of subsequent years</a></td></tr>
-<tr><td><a href="ch14.htm#p732">Maintenance costs of fixed capital</a></td></tr>
-<tr><td><a href="ch14.htm#p732">Revenue of fixed capital and circulating capital</a></td></tr>
-<tr><td><a href="ch14.htm#p735">Free labour = latent pauperism. Eden</a></td></tr>
-<tr><td><a href="ch14.htm#p737">The smaller the value of fixed capital in relation to its product, the more useful</a></td></tr>
-<tr><td><a href="ch14.htm#p739">Movable and immovable, fixed and circulating</a></td></tr>
-<tr><td><a href="ch14.htm#p741">Connection of circulation and reproduction</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch05.htm#p250">SECTION ONE: THE PRODUCTION PROCESS OF CAPITAL</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p251">Nothing is expressed when capital is characterized merely as a sum of values</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p252">Landed property and capital</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p253">Capital comes from circulation; its content is exchange value; merchant capital, money capital, and money interest</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p254">Circulation presupposes another process; motion between presupposed extremes</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p256">Transition from circulation to capitalist production</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p257">Capital is accumulated labour (etc.)</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p258">&#8216;Capital is a sum of values used for the production of values&#8217;</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p259">Circulation, and exchange value deriving from circulation, the presupposition of capital</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p262">Exchange value emerging from circulation, a presupposition of circulation, preserving and multiplying itself in it by means of labour</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p264">Product and capital. Value and capital. Proudhon</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p266">Capital and labour. Exchange value and use value for exchange value</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p269">Money and its use value (labour) in this relation capital. Self-multiplication of value is its only movement</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p271">Capital, as regards substance, objectified labour. Its antithesis living, productive labour</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p272">Productive labour and labour as performance of a service</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p273">Productive and unproductive labour. A. Smith etc.</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p274">The two different processes in the exchange of capital with labour</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p275">Capital and modern landed property</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p279">The market</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p281">Exchange between capital and labour. Piecework wages</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p282">Value of labour power</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p283">Share of the wage labourer in general wealth determined only quantitatively</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p284">Money is the worker&#8217;s equivalent; he thus confronts capital as an equal</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p284">But the aim of his exchange is satisfaction of his need. Money for him is only medium of circulation</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p284">Savings, self-denial as means of the worker&#8217;s enrichment</a></td></tr>
+<tr><td><a href="marxists.org/ch05.htm#p289">Valuelessness and devaluation of the worker a condition of capital</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm">(Labour power as capital!)</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p294">Wages not productive</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p295">The exchange between capital and labour belongs within simple circulation, does not enrich the worker</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p295">Separation of labour and property the precondition of this exchange</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p296">Labour as object absolute poverty, labour as subject general possibility of wealth</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p296">Labour without particular specificity confronts capital</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p297">Labour process absorbed into capital</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p303">(Capital and capitalist)</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p304">Production process as content of capital</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p306">The worker relates to his labour as exchange value, the capitalist as use value</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p307">The worker divests himself of labour as the wealth-producing power; capital appropriates it as such</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p308">Transformation of labour into capital</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p310">Realization process</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p315">(Costs of production)</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p316">Mere self-preservation, non-multiplication of value contradicts the essence of capital</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p318">Capital enters the cost of production as capital. Interest-bearing capital</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p319">(Parentheses on: original accumulation of capital, historic presuppositions of capital, production in general)</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p321">Surplus value. Surplus labour time</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p322">Value of labour. How it is determined</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p324">Conditions for the self-realization of capital</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p325">Capital is productive as creator of surplus labour</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p325">But this is only a historical and transitory phenomenon</a></td></tr>
+<tr><td><a href="marxists.org/ch06.htm#p326">Theories of surplus value (Ricardo; the Physiocrats; Adam Smith; Ricardo again)</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm">Surplus value and productive force. Relation when these increase</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p340">Result: in proportion as necessary labour is already diminished, the realization of capital becomes more difficult</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p341">Concerning increases in the value of capital</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p354">Labour does not reproduce the value of material and instrument, but rather preserves it by relating to them in the labour process as to their objective conditions</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p359">Absolute surplus labour time. Relative</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p359">It is not the quantity of living labour, but rather its quality as labour which preserves the labour time already contained in the material</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p360">The change of form and substance in the direct production process</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p361">It is inherent in the simple production process that the previous stage of production is preserved through the subsequent one</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p362">Preservation of the old use value by new labour</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p363">The quantity of objectified labour is preserved because contact with living labour preserves its quality as use value for new labour</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p364">In the real production process, the separation of labour from its objective moments of existence is suspended. But in this process labour is already incorporated in capital</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p365">The capitalist obtains surplus labour free of charge together with the maintenance of the value of material and instrument</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p367">Through the appropriation of present labour, capital already possesses a claim to the appropriation of future labour</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p373">Confusion of profit and surplus value. Carey&#8217;s erroneous calculation</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p374">The capitalist, who does not pay the worker for the preservation of the old value, then demands remuneration for giving the worker permission to preserve the old capital</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch07.htm#p376"><em>Surplus Value and Profit</em></a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p378">Difference between consumption of the instrument and of wages. The former consumed in the production process, the latter outside it</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p381">Increase of surplus value and decrease in rate of profit</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p386">Multiplication of simultaneous working days</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p389">Machinery</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p389">Growth of the constant part of capital in relation to the variable part spent on wages = growth of the productivity of labour</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p390">Proportion in which capital has to increase in order to employ the same number of workers if productivity rises</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p395">Percentage of total capital can express very different relations</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p397">Capital (like property in general) rests on the productivity of labour</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p398">Increase of surplus labour time. Increase of simultaneous working days. (Population)</a></td></tr>
+<tr><td><a href="marxists.org/ch07.htm#p400">(Population can increase in proportion as necessary labour time becomes smaller)</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p401">Transition from the process of the production of capital into the process of circulation</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch08.htm">SECTION TWO: THE CIRCULATION PROCESS OF CAPITAL</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p402">Devaluation of capital itself owing to increase of productive forces</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p413">(Competition)</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p414">Capital as unity and contradiction of the production process and the realization process</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p415">Capital as limit to production. Overproduction</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p419">Demand by the workers themselves</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p422">Barriers to capitalist production</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p423">Overproduction; Proudhon</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p424">Price of the commodity and labour time</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p430">The capitalist does not sell too dear; but still above what the thing costs him</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p432">Price can fall below value without damage to capital</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p432">Number and unit (measure) important in the multiplication of prices</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p433">Specific accumulation of capital. (Transformation of surplus labour into capital)</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p433">The determination of value and of prices</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p434">The general rate of profit</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p436">The capitalist merely sells at his own cost of production, then it is a transfer to another capitalist. The worker gains almost nothing thereby</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p443">Barrier of capitalist production. Relation of surplus labour to necessary labour. Proportion of the surplus consumed by capital to that transformed into capital</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p446">Devaluation during crises</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p447">Capital coming out of the production process becomes money again</a></td></tr>
+<tr><td><a href="marxists.org/ch08.htm#p449">(Parenthesis on capital in general)</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch09.htm"><em>Surplus Labour or Surplus Value Becomes Surplus Capital</em></a></td></tr>
+<tr><td><a href="marxists.org/ch09.htm">All the determinants of capitalist production now appear as the result of (wage) labour itself</a></td></tr>
+<tr><td><a href="marxists.org/ch09.htm#p452">The realization process of labour at the same time its de-realization process</a></td></tr>
+<tr><td><a href="marxists.org/ch09.htm#p456">Formation of surplus capital I</a></td></tr>
+<tr><td><a href="marxists.org/ch09.htm#p456">Surplus capital II</a></td></tr>
+<tr><td><a href="marxists.org/ch09.htm#p458">Inversion of the law of appropriation</a></td></tr>
+<tr><td><a href="marxists.org/ch09.htm#p458">Chief result of the production and realization process</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch09.htm#p459"><em>Original Accumulation of Capital</em></a></td></tr>
+<tr><td><a href="marxists.org/ch09.htm#p459">Once developed historically, capital itself creates the conditions of its existence</a></td></tr>
+<tr><td><a href="marxists.org/ch09.htm#p465">(Performance of personal services, as opposed to wage labour)</a></td></tr>
+<tr><td><a href="marxists.org/ch09.htm#p469">(Parenthesis on inversion of the law of property, real alien relation of the worker to his product, division of labour, machinery)</a></td></tr>
+<tr><td><a href="marxists.org/ch09.htm#p471">Forms which precede capitalist production. (Concerning the process which precedes the formation of the capital relation or of original accumulation)</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm">Exchange of labour for labour rests on the worker&#8217;s propertylessness</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p516">Circulation of capital and circulation of money</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p517">Production process and circulation process moments of production. The productivity of the different capitals (branches of industry) determines that of the individual capital</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p518">Circulation period. Velocity of circulation substitutes for volume of capital. Mutual dependence of capitals in the velocity of their circulation</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p520">The four moments in the turnover of capital</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p521">Moment II to be considered here: transformation of the product into money; duration of this operation</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p521">Transport costs</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p524">Circulation costs</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p525">Means of communication and transport</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p527">Division of the branches of labour</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p528">Concentration of many workers; productive force of this concentration</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p533">General as distinct from particular conditions of production</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p533">Transport to market (spatial condition of circulation) belongs in the production process</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p534">Credit, the temporal moment of circulation</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p536">Capital is circulating capital</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p537">Influence of circulation on the determination of value; circulation time = time of devaluation</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p540">Difference between the capitalist mode of production and all earlier ones (universality, propagandistic nature)</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p543">(Capital itself is the contradiction)</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p544">Circulation and creation of value</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p547">Capital not a source of value-creation</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p548">Continuity of production presupposes suspension of circulation time</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch10.htm#p549"><em>Theories of Surplus Value</em></a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p549">Ramsay&#8217;s view that capital is its own source of profit</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p551">No surplus value according to Ricardo&#8217;s law</a></td></tr>
+<tr><td><a href="marxists.org/ch10.htm#p553">Ricardo&#8217;s theory of value. Wages and profit</a></td></tr>
+<tr><td><a href="marxists.org/ch11.htm">Quincey</a></td></tr>
+<tr><td><a href="marxists.org/ch11.htm#p559">Ricardo</a></td></tr>
+<tr><td><a href="marxists.org/ch11.htm#p563">Wakefield. Conditions of capitalist production in colonies</a></td></tr>
+<tr><td><a href="marxists.org/ch11.htm#p564">Surplus value and profit. Example (Malthus)</a></td></tr>
+<tr><td><a href="marxists.org/ch11.htm#p576">Difference between labour and labour capacity</a></td></tr>
+<tr><td><a href="marxists.org/ch11.htm#p579">Carey&#8217;s theory of the cheapening of capital for the worker</a></td></tr>
+<tr><td><a href="marxists.org/ch11.htm#p580">Carey&#8217;s theory of the decline of the rate of profit</a></td></tr>
+<tr><td><a href="marxists.org/ch11.htm#p581">Wakefield on the contradiction between Ricardo&#8217;s theories of wage labour and of value</a></td></tr>
+<tr><td><a href="marxists.org/ch11.htm#p582">Bailey on dormant capital and increase of production without previous increase of capital</a></td></tr>
+<tr><td><a href="marxists.org/ch11.htm#p584">Wade&#8217;s explanation of capital. Capital, collective force. Capital, civilization</a></td></tr>
+<tr><td><a href="marxists.org/ch11.htm#p591">Rossi. What is capital? Is raw material capital? Are wages necessary for it?</a></td></tr>
+<tr><td><a href="marxists.org/ch11.htm#p595">Malthus. Theory of value and of wages</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm">Aim of capitalist production value (money), not commodity, use value etc. Chalmers</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p602">Difference in return. Interruption of the production process. Total duration of the production process. Unequal periods of production</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p604">The concept of the free labourer contains the pauper. Population and overpopulation</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p608">Necessary labour. Surplus labour. Surplus population. Surplus capital</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p610">Adam Smith: work as sacrifice</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p614">Adam Smith: the origin of profit</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p616">Surplus labour. Profit. Wages</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p616">Immovable capital. Return of capital. Fixed capital. John Stuart Mill</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p618">Turnover of capital. Circulation process. Production process</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p633">Circulation costs. Circulation time</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p637">Capital&#8217;s change of form and of substance; different forms of capital; circulating capital as general character of capital</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p640">Fixed (tied down) capital and circulating capital</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p649">Constant and variable capital</a></td></tr>
+<tr><td><a href="marxists.org/ch12.htm#p649">Competition</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm">Surplus value. Production time. Circulation time. Turnover time</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p657">Competition (continued)</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p658">Part of capital in production time, part in circulation time</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p663">Surplus value and production phase. Number of reproductions of capital = number of turnovers</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p667">Change of form and of matter in the circulation of capital C&#8211;M&#8211;C. M&#8211;C&#8211;M</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p668">Difference between production time and labour time</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p671">Formation of a mercantile estate; credit</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p673">Small-scale circulation. The process of exchange between capital and labour capacity generally</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p678">Threefold character, or mode, of circulation</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p679">Fixed capital and circulating capital</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p684">Influence of fixed capital on the total turnover time of capital</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p690">Fixed capital. Means of labour. Machine</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p699">Transposition of powers of labour into powers of capital both in fixed and in circulating capital</a></td></tr>
+<tr><td><a href="marxists.org/ch13.htm#p701">To what extent fixed capital (machine) creates value</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm">Fixed capital &amp; continuity of the production process. Machinery &amp; living labour</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p704">Contradiction between the foundation of bourgeois production (value as measure) and its development</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p707">Significance of the development of fixed capital (for the development of capital generally)</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p708">The chief role of capital is to create disposable time; contradictory form of this in capital</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p710">Durability of fixed capital</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p711">Real saving (economy) = saving of labour time = development of productive force</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p712">True conception of the process of social production</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p712">Owen&#8217;s historical conception of industrial (capitalist) production</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p714">Capital and value of natural agencies</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p715">Scope of fixed capital indicates the level of capitalist production</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p716">Is money fixed capital or circulating capital?</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p717">Turnover time of capital consisting of fixed capital and circulating capital. Reproduction time of fixed capital</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p723">The same commodity sometimes circulating capital, sometimes fixed capital</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p726">Every moment which is a presupposition of production is at the same time its result, in that it reproduces its own conditions</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p727">The counter-value of circulating capital must be produced within the year. Not so for fixed capital. It engages the production of subsequent years</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p732">Maintenance costs of fixed capital</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p732">Revenue of fixed capital and circulating capital</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p735">Free labour = latent pauperism. Eden</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p737">The smaller the value of fixed capital in relation to its product, the more useful</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p739">Movable and immovable, fixed and circulating</a></td></tr>
+<tr><td><a href="marxists.org/ch14.htm#p741">Connection of circulation and reproduction</a></td></tr>
 
-<tr><td class="aclhead"><a href="ch15.htm">SECTION THREE: CAPITAL AS FRUCTIFEROUS.<br>TRANSFORMATION OF SURPLUS VALUE INTO PROFIT</a></td></tr>
-<tr><td><a href="ch15.htm">Rate of profit. Fall of the rate of profit</a></td></tr>
-<tr><td><a href="ch15.htm#p753">Surplus value as profit always expresses a lesser proportion</a></td></tr>
-<tr><td><a href="ch15.htm#p754">Wakefield, Carey and Bastiat on the rate of profit</a></td></tr>
-<tr><td><a href="ch15.htm#p758">Capital and revenue (profit). Production and distribution. Sismondi</a></td></tr>
-<tr><td><a href="ch15.htm#p762">Transformation of surplus value into profit</a></td></tr>
-<tr><td><a href="ch15.htm#p762">Laws of this transformation</a></td></tr>
-<tr><td><a href="ch15.htm#p764">Surplus value = relation of surplus labour to necessary labour</a></td></tr>
-<tr><td><a href="ch15.htm#p765">Value of fixed capital and its productive power</a></td></tr>
-<tr><td><a href="ch15.htm#p767">Machinery and surplus labour. Recapitulation of the doctrine of surplus value generally</a></td></tr>
-<tr><td><a href="ch15.htm#p771">Relation between the objective conditions of production. Change in the proportion of the component parts of capital</a></td></tr>
-<tr><td class="aclhead"><a href="ch15.htm#p778">MISCELLANEOUS</a></td></tr>
-<tr><td><a href="ch15.htm#p778">Money and fixed capital: presupposes a certain amount of wealth. Relation of fixed capital and circulating capital. (<em>Economist</em>)</a></td></tr>
-<tr><td><a href="ch15.htm#p778">Slavery and wage labour; profit upon alienation (Steuart)</a></td></tr>
-<tr><td><a href="ch15.htm#p781">Steuart, Montanari and Gouge on money</a></td></tr>
-<tr><td><a href="ch15.htm#p783">The wool industry in England since Elizabeth; silk-manufacture; iron; cotton</a></td></tr>
-<tr><td><a href="ch15.htm#p785">Origin of free wage labour. Vagabondage. (Tuckett)</a></td></tr>
-<tr><td><a href="ch15.htm#p786">Blake on accumulation and rate of profit; dormant capital</a></td></tr>
-<tr><td><a href="ch15.htm#p788">Domestic agriculture at the beginning of the sixteenth century. (Tuckett)</a></td></tr>
-<tr><td><a href="ch15.htm#p789">Profit. Interest. Influence of machinery on the wage fund. (<em>Westminster Review</em>)</a></td></tr>
-<tr><td><a href="ch15.htm#p789">Money as measure of values and yardstick of prices. Critique of theories of the standard measure of money</a></td></tr>
-<tr><td><a href="ch16.htm">Transformation of the medium of circulation into money. Formation of treasures. Means of payment. Prices of commodities and quantity of circulating money. Value of money</a></td></tr>
-<tr><td><a href="ch16.htm#p816">Capital, not labour, determines the value of money. (Torrens)</a></td></tr>
-<tr><td><a href="ch16.htm#p817">The minimum of wages</a></td></tr>
-<tr><td><a href="ch16.htm#p818">Cotton machinery and working men in 1826. (Hodgskin)</a></td></tr>
-<tr><td><a href="ch16.htm#p818">How the machine creates raw material. (<em>Economist</em>) </a></td></tr>
-<tr><td><a href="ch16.htm#p819">Machinery and surplus labour</a></td></tr>
-<tr><td><a href="ch16.htm#p821">Capital and profit. Relation of the worker to the conditions of labour in capitalist production. All parts of capital bring a profit</a></td></tr>
-<tr><td><a href="ch16.htm#p825">Tendency of the machine to prolong labour</a></td></tr>
-<tr><td><a href="ch16.htm#p826">Cotton factories in England. Example for machinery and surplus labour</a></td></tr>
-<tr><td><a href="ch16.htm#p828">Examples from Glasgow for the rate of profit</a></td></tr>
-<tr><td><a href="ch16.htm#p831">Alienation of the conditions of labour with the development of capital. Inversion</a></td></tr>
-<tr><td><a href="ch16.htm#p833">Merivale. Natural dependence of the worker in colonies to be replaced by artificial restrictions</a></td></tr>
-<tr><td><a href="ch16.htm#p834">How the machine saves material. Bread. D&#8217;eau de la Malle</a></td></tr>
-<tr><td><a href="ch16.htm#p836">Development of money and interest</a></td></tr>
-<tr><td><a href="ch16.htm#p840">Productive consumption. Newman. Transformations of capital. Economic cycle</a></td></tr>
-<tr><td><a href="ch16.htm#p842">Dr Price. Innate power of capital</a></td></tr>
-<tr><td><a href="ch16.htm#p843">Proudhon. Capital and simple exchange. Surplus</a></td></tr>
-<tr><td><a href="ch16.htm#p845">Necessity of the worker&#8217;s propertylessness</a></td></tr>
-<tr><td><a href="ch16.htm#p846">Galiani</a></td></tr>
-<tr><td><a href="ch16.htm#p848">Theory of savings. Storch</a></td></tr>
-<tr><td><a href="ch16.htm#p849">MacCulloch. Surplus. Profit</a></td></tr>
-<tr><td><a href="ch16.htm#p850">Arnd. Natural interest</a></td></tr>
-<tr><td><a href="ch17.htm">Interest and profit. Carey</a></td></tr>
-<tr><td><a href="ch17.htm#p855">How merchant takes the place of master</a></td></tr>
-<tr><td><a href="ch17.htm#p856">Merchant wealth</a></td></tr>
-<tr><td><a href="ch17.htm#p861">Commerce with equivalents impossible. Opdyke</a></td></tr>
-<tr><td><a href="ch17.htm#p862">Principal and interest</a></td></tr>
-<tr><td><a href="ch17.htm#p862">Double standard</a></td></tr>
-<tr><td><a href="ch17.htm#p864">On money</a></td></tr>
-<tr><td><a href="ch17.htm#p867">James Mill&#8217;s false theory of prices</a></td></tr>
-<tr><td><a href="ch17.htm#p870">Ricardo on currency</a></td></tr>
-<tr><td><a href="ch17.htm#p871">On money</a></td></tr>
-<tr><td><a href="ch17.htm#p872">Theory of foreign trade. Two nations may exchange according to the law of profit in such a way that both gain, but one is always defrauded</a></td></tr>
-<tr><td><a href="ch17.htm#p872">Money in its third role, as money</a></td></tr>
-<tr><td class="aclhead"><a href="ch17.htm#value">(I) VALUE (This section to be brought forward)</a></td></tr>
-<tr><td class="aclhead"><a href="ch17.htm#bastiat">BASTIAT AND CAREY</a></td></tr>
-<tr><td><a href="ch17.htm#p883">Bastiat&#8217;s economic harmonies</a></td></tr>
-<tr><td><a href="ch17.htm#wages">Bastiat on wages</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch15.htm">SECTION THREE: CAPITAL AS FRUCTIFEROUS.<br>TRANSFORMATION OF SURPLUS VALUE INTO PROFIT</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm">Rate of profit. Fall of the rate of profit</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p753">Surplus value as profit always expresses a lesser proportion</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p754">Wakefield, Carey and Bastiat on the rate of profit</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p758">Capital and revenue (profit). Production and distribution. Sismondi</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p762">Transformation of surplus value into profit</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p762">Laws of this transformation</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p764">Surplus value = relation of surplus labour to necessary labour</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p765">Value of fixed capital and its productive power</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p767">Machinery and surplus labour. Recapitulation of the doctrine of surplus value generally</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p771">Relation between the objective conditions of production. Change in the proportion of the component parts of capital</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch15.htm#p778">MISCELLANEOUS</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p778">Money and fixed capital: presupposes a certain amount of wealth. Relation of fixed capital and circulating capital. (<em>Economist</em>)</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p778">Slavery and wage labour; profit upon alienation (Steuart)</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p781">Steuart, Montanari and Gouge on money</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p783">The wool industry in England since Elizabeth; silk-manufacture; iron; cotton</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p785">Origin of free wage labour. Vagabondage. (Tuckett)</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p786">Blake on accumulation and rate of profit; dormant capital</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p788">Domestic agriculture at the beginning of the sixteenth century. (Tuckett)</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p789">Profit. Interest. Influence of machinery on the wage fund. (<em>Westminster Review</em>)</a></td></tr>
+<tr><td><a href="marxists.org/ch15.htm#p789">Money as measure of values and yardstick of prices. Critique of theories of the standard measure of money</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm">Transformation of the medium of circulation into money. Formation of treasures. Means of payment. Prices of commodities and quantity of circulating money. Value of money</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p816">Capital, not labour, determines the value of money. (Torrens)</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p817">The minimum of wages</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p818">Cotton machinery and working men in 1826. (Hodgskin)</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p818">How the machine creates raw material. (<em>Economist</em>) </a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p819">Machinery and surplus labour</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p821">Capital and profit. Relation of the worker to the conditions of labour in capitalist production. All parts of capital bring a profit</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p825">Tendency of the machine to prolong labour</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p826">Cotton factories in England. Example for machinery and surplus labour</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p828">Examples from Glasgow for the rate of profit</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p831">Alienation of the conditions of labour with the development of capital. Inversion</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p833">Merivale. Natural dependence of the worker in colonies to be replaced by artificial restrictions</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p834">How the machine saves material. Bread. D&#8217;eau de la Malle</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p836">Development of money and interest</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p840">Productive consumption. Newman. Transformations of capital. Economic cycle</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p842">Dr Price. Innate power of capital</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p843">Proudhon. Capital and simple exchange. Surplus</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p845">Necessity of the worker&#8217;s propertylessness</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p846">Galiani</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p848">Theory of savings. Storch</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p849">MacCulloch. Surplus. Profit</a></td></tr>
+<tr><td><a href="marxists.org/ch16.htm#p850">Arnd. Natural interest</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm">Interest and profit. Carey</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#p855">How merchant takes the place of master</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#p856">Merchant wealth</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#p861">Commerce with equivalents impossible. Opdyke</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#p862">Principal and interest</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#p862">Double standard</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#p864">On money</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#p867">James Mill&#8217;s false theory of prices</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#p870">Ricardo on currency</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#p871">On money</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#p872">Theory of foreign trade. Two nations may exchange according to the law of profit in such a way that both gain, but one is always defrauded</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#p872">Money in its third role, as money</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch17.htm#value">(I) VALUE (This section to be brought forward)</a></td></tr>
+<tr><td class="aclhead"><a href="marxists.org/ch17.htm#bastiat">BASTIAT AND CAREY</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#p883">Bastiat&#8217;s economic harmonies</a></td></tr>
+<tr><td><a href="marxists.org/ch17.htm#wages">Bastiat on wages</a></td></tr>
 </tbody>
 </TABLE>
 
@@ -379,10 +379,10 @@ Marx wrote this huge manuscript as part of his preparation for what would become
 <!--remove before conversion - start-->
 <hr class="end">
 <p class="footer">
-<a href="guide.htm">Study Guide</a> |
-<a href="../../date/index.htm">Works</a> |
-<a href="../../../index.htm">Marx/Engels Archive</a> |
-<a href="ch01.htm">Next &gt;</a>
+<a href="marxists.org/guide.htm">Study Guide</a> |
+<a href="marxists.org/../../date/index.htm">Works</a> |
+<a href="marxists.org/../../../index.htm">Marx/Engels Archive</a> |
+<a href="marxists.org/ch01.htm">Next &gt;</a>
 </p>
 <!--remove before conversion - end-->
 </BODY>
