@@ -1,0 +1,198 @@
+/* Extra css for Grundrisse */
+
+em { word-spacing: normal; }
+
+p {
+ text-indent: 1.5em;
+ padding: 0em;
+ margin-top: 0em;
+ margin-bottom: 0em;
+}
+
+p.information {
+ text-indent: 0em;
+ margin-top: 1em;
+ }
+
+h3.asterisks { clear: both;}
+
+p.fst {
+ text-indent: 0em;
+ margin-top: 1em;
+}
+
+p.kmnote {
+  text-indent: 0em;
+  padding: 1em 1.5em 1em 1.5em;
+  font-size: 0.9em;
+}
+p.kmnote2 {
+  text-indent: 0em;
+  padding: 0em 1.5em 1em 1.5em;
+  font-size: 0.9em;
+}
+
+p.padtop { padding-top: 1em; }
+
+img.grundrisse {
+  float: right;
+  margin: 1em;
+  padding: 0em;
+  border: 1pt;
+}
+
+hr.section {
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-style: inset;
+    border-width: 1px;
+}
+hr.cell {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 0%;
+    margin-right: 0%;
+    border-style: inset;
+    border-width: 1px;
+}
+
+/* Data tables */
+table.grundrisse1 {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 0.9em;
+  font-weight: normal;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  margin-left: 6%;
+  margin-right: 6%;
+  padding: 0 0 0 1em;
+  border: 0em;
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+}
+table.grundrisse1 th {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.3em 0.5em 0.3em 0.5em;
+  font-weight: normal;
+  font-style: italic;
+}
+table.grundrisse1 td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.3em 0.5em 0.3em 0.5em;
+  font-style: normal;
+}
+table.grundrisse1 td.ralign {
+  text-align: right;
+}
+table.grundrisse1 td.center {
+  text-align: center;
+}
+table.grundrisse1 th.p378 {
+  text-align: left;
+  vertical-align: middle;
+  padding: 0.3em 0.3em 0.3em 0.3em;
+  font-style: normal;
+  border-right: 1px solid black;
+}
+table.grundrisse1 td.p378 {
+  text-align: left;
+  vertical-align: middle;
+  padding: 0.3em 0.3em 0.3em 0.3em;
+  font-style: normal;
+  border-right: 1px solid black;
+}
+
+/* Text tables */
+table.grundrisse2 {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 1em;
+  font-weight: normal;
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  padding: 0em;
+  border: 0em;
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+}
+table.grundrisse2 th {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.2em 0.5em 0em 0em;
+  font-weight: normal;
+  font-style: italic;
+}
+table.grundrisse2 td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.2em 0.5em 0em 0em;
+  font-style: normal;
+}
+table.grundrisse2 td.ralign {
+  text-align: right;
+}
+table.grundrisse2 td.center {
+  text-align: center;
+}
+table.grundrisse2 td.rbalign {
+  text-align: right;
+  vertical-align: bottom;
+}
+table.grundrisse2 td.fractop {
+  text-align: center;
+  text-decoration: underline;
+  vertical-align: bottom;
+}
+table.grundrisse2 td.fractopr {
+  text-align: right;
+  text-decoration: underline;
+  vertical-align: bottom;
+}
+table.grundrisse2 td.fracbottom {
+  text-align: center;
+  vertical-align: top;
+}
+
+/* Analytical Contents List only */
+table.grundrisse3 {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 1em;
+  font-weight: normal;
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  padding: 0em;
+  border: 0em;
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+}
+table.grundrisse3 td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.2em 0.5em 0em 0em;
+  font-style: normal;
+}
+table.grundrisse3 td.aclhead {
+  color: #000033;
+  text-align: left;
+  font-weight: bold;
+}
+table.grundrisse3 tbody tr:nth-of-type(odd) { background-color: #dddddd; }
+
+caption {
+    text-align: left;
+    padding: 0 0 0 1em;
+    font-style: italic;
+    font-size: 1em;
+}
